@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Montserrate;
+    src: url(../bootstrap-4.6.0/Fonts/Montserrat/Montserrat-Medium.ttf);
+}
+
+body {
+    font-family: Montserrate;
+}
+
+h1{
+    margin-top: 20px;
+}
+section {
+    height: 100vh;
+}
